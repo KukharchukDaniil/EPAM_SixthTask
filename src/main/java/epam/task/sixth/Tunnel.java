@@ -8,5 +8,5 @@ import java.util.Deque;
 public class Tunnel extends Thread{
     private Deque<Train> tunnelDeque = new ArrayDeque<Train>();
     private Tunnel(){};
-    public Tunnel getInstance(){};
+    public Tunnel getInstance(){  };
 }
