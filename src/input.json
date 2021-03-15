@@ -1,0 +1,40 @@
+{
+  "trainList": [
+    {
+      "direction": "NORTH",
+      "trainName": "Train-1"
+    },
+    {
+      "direction": "NORTH",
+      "trainName": "Train-2"
+    },
+    {
+      "direction": "SOUTH",
+      "trainName": "Train-3"
+    },
+    {
+      "direction": "NORTH",
+      "trainName": "Train-4"
+    },
+    {
+      "direction": "SOUTH",
+      "trainName": "Train-5"
+    },
+    {
+      "direction": "SOUTH",
+      "trainName": "Train-6"
+    },
+    {
+      "direction": "NORTH",
+      "trainName": "Train-7"
+    },
+    {
+      "direction": "SOUTH",
+      "trainName": "Train-8"
+    },
+    {
+      "direction": "NORTH",
+      "trainName": "Train-9"
+    }
+  ]
+}

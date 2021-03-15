@@ -1,4 +1,6 @@
-package epam.task.sixth.train;
+package epam.task.sixth.train.state;
+
+import epam.task.sixth.train.Train;
 
 public class InTunnelState implements TrainState {
     public void next(Train train) {
@@ -9,7 +11,7 @@ public class InTunnelState implements TrainState {
         train.setTrainState(new HeadedToTunnelState());
     }
 
-    public void printStatus() {
-
+    public String getStatus() {
+        return " is in the tunnel";
     }
 }
